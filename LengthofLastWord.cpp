@@ -34,6 +34,5 @@ int main()
 	const char *s = "Hello World";
 	cout<<test.lengthOfLastWord(s)<<endl;
 	return 0;
-	
 }
 
