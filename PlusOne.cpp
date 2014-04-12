@@ -35,7 +35,7 @@ int main()
 {
 	Solution solution;
 	vector<int> result;
-    int a[] = {8,7,9};
+        int a[] = {8,7,9};
 	vector<int> array(a,a+3);
 	//vector<int> array(3,9);
 	result = solution.plusOne(array);
