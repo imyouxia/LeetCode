@@ -25,5 +25,6 @@ int main()
 	Solution test;
 	int A[] = {1,1,2};
 	std::cout<< test.removeDuplicates(A,3) <<std::endl;
+	
 	return 0;
 }

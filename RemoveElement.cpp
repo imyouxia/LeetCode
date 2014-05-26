@@ -27,6 +27,7 @@ int main()
 	Solution test;
 	int A[] = {1,2,3,4,5};
 	std::cout<<test.removeElement(A,5,3)<<std::endl;
+	
 	return 0;	
 }
 
