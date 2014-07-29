@@ -40,7 +40,6 @@ public:
         end->next = current;
         return prev_head.next;        
     }        
-
 };
 
 int main()
